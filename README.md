@@ -1,7 +1,7 @@
 <h1 align="center">Assalamualaikum 👋, I'm Muhammad Talha Noshahi</h1>
 <h3 align="center">A passionate Computer Engineer from Taxila, Pakistan</h3>
 
-<img align="right" alt="penguin slap" width="400" src="https://gfycat.com/pl/discover/penguins-slap-gifs">
+<img align="right" alt="penguin slap" width="400" src="https://www.pinterest.com/pin/90353536252761745/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhanoshahi&label=Profile%20views&color=0e75b6&style=flat" alt="talhanoshahi" /> </p>
 
