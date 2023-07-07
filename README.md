@@ -35,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhanoshahi&show_icons=true&locale=en&layout=compact" alt="talhanoshahi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhanoshahi&show_icons=true&locale=en" alt="talhanoshahi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhanoshahi&" alt="talhanoshahi" /></p>
