@@ -26,10 +26,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.chipverify.com/verilog/verilog-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/verilog.svg" alt="verilog" width="40" height="40"/> </a>
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/emacs.svg" alt="emacs" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/GNU_Octave/GNU_Octave-Logo.wine.svg" alt="gnu octave" width="40" height="40"/> </a>
 <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
