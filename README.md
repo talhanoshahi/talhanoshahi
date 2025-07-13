@@ -7,18 +7,13 @@
 
 - 🌱 Currently learning: **Systemd, Podman, and Containerization**
 
-- 🧠 Exploring: **Low-level optimization, Embedded Linux, and GTK4**
+- 🧠 Exploring: **Low-level optimization, Embedded Systems, and Self-hosting**
 
 - 💬 You can ask me about:
-  - C, Linux, Verilog
+  - C and Linux
   - Bash scripting
   - Vim/Emacs workflow
   - System design for embedded systems
-
-### 🛠️ Featured Projects
-- 🚗 [Car Management System (C + SQLite)](https://github.com/talhanoshahi/Car-Management-System-project-for-Database-Systems)
-- 🕹️ [Bluetooth Robot Car](https://github.com/talhanoshahi/robot-car) – obstacle detection + music + headlights
-- 📊 [Blockchain-style Audit Log](https://github.com/talhanoshahi/audit-log-system) – secure change tracking in SQLite
 
 ### 🧰 Languages & Tools
 
@@ -107,7 +102,7 @@
 
 ### ⚡ Fun Facts
 - 🧠 I use Emacs, but I still love Vim keybindings
-- 🔌 I enjoy debugging hardware and Linux kernel logs
+- 🔌 I enjoy debugging software and tinkering with Linux.
 - 🎯 I believe clean code is just as important as working code
 
 ### 📫 How to Reach Me
