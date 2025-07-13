@@ -1,38 +1,51 @@
-<h1 align="center">Assalamualaikum 👋, I'm Muhammad Talha Noshahi</h1>
-<h3 align="center">A passionate Computer Engineer from Taxila, Pakistan</h3>
+<h1 align="center">👋 Assalamualaikum, I'm Muhammad Talha Noshahi</h1>
+<h3 align="center">💻 Computer Engineer | 🐧 Linux Enthusiast | 🔧 C Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhanoshahi&label=Profile%20views&color=0e75b6&style=flat" alt="talhanoshahi" /> </p>
 
-- 🔭 I’m currently working on [Car Management System in C](https://github.com/talhanoshahi/Car-Management-System-project-for-Database-Systems)
+- 🔭 I'm currently working on: [Self-Hosted Git Server with Forgejo](https://git.botcodes.dev/nextek)
 
-- 🌱 I’m currently learning **GTK4 C-api**
+- 🌱 Currently learning: **Systemd, Podman, and Containerization**
 
-- 🤝 I’m looking for help with **anything C or Linux**
+- 🧠 Exploring: **Low-level optimization, Embedded Linux, and GTK4**
 
-- 💬 Ask me about **C, Linux, Verilog, Bash and Vim**
+- 💬 You can ask me about:
+  - C, Linux, Verilog
+  - Bash scripting
+  - Vim/Emacs workflow
+  - System design for embedded systems
 
-- 📫 How to reach me **talhanoshahi@proton.me**
+### 🛠️ Featured Projects
+- 🚗 [Car Management System (C + SQLite)](https://github.com/talhanoshahi/Car-Management-System-project-for-Database-Systems)
+- 🕹️ [Bluetooth Robot Car](https://github.com/talhanoshahi/robot-car) – obstacle detection + music + headlights
+- 📊 [Blockchain-style Audit Log](https://github.com/talhanoshahi/audit-log-system) – secure change tracking in SQLite
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-talha-noshahi-62629b254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-noshahi-62629b254" height="30" width="40" /></a>
-</p>
+### 🧰 Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.chipverify.com/verilog/verilog-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/verilog.svg" alt="verilog" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/emacs.svg" alt="emacs" width="40" height="40"/> </a>
-<a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
+**Core Languages**
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![Verilog](https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/verilog.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhanoshahi&show_icons=true&locale=en&layout=compact" alt="talhanoshahi" /></p>
+**Linux & Scripting**
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhanoshahi&show_icons=true&locale=en" alt="talhanoshahi" /></p>
+**Tools & Frameworks**
+![Emacs](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/emacs.svg)
+![GTK](https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg)
+![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhanoshahi&" alt="talhanoshahi" /></p>
+### ⚡ Fun Facts
+- 🧠 I use Emacs, but I still love Vim keybindings
+- 🔌 I enjoy debugging hardware and Linux kernel logs
+- 🎯 I believe clean code is just as important as working code
+
+### 📫 How to Reach Me
+- Email: [talhanoshahi@proton.me](mailto:talhanoshahi@proton.me)
+- Website: [botcodes.dev](https://botcodes.dev)
+
+<!--
+Muhammad Talha Noshahi | talhanoshahi | Computer Engineer | Linux | C | Emacs | Embedded Systems | Forgejo | Taxila Pakistan
+-->
