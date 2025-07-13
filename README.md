@@ -26,32 +26,24 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://git.botcodes.dev/nextek/talhanoshahi/raw/branch/main/logos/linux-logo.svg" width="48" height="48" alt="Linux" />
-        <br /><sub><b>Linux</b></sub>
-        <br /><span>Daily driver, debugging, kernel logs</span>
-      </a>
+      <img src="https://git.botcodes.dev/nextek/talhanoshahi/raw/branch/main/logos/linux-logo.svg" width="48" height="48" alt="Linux" />
+      <br /><sub><b>Linux</b></sub>
+      <br /><span>Daily driver, debugging, kernel logs</span>
     </td>
     <td align="center" width="120">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://git.botcodes.dev/nextek/talhanoshahi/raw/branch/main/logos/git-logo.svg" width="48" height="48" alt="Git" />
-        <br /><sub><b>Git</b></sub>
-        <br /><span>Version control, self-hosted & GitHub</span>
-      </a>
+      <img src="https://git.botcodes.dev/nextek/talhanoshahi/raw/branch/main/logos/git-logo.svg" width="48" height="48" alt="Git" />
+      <br /><sub><b>Git</b></sub>
+      <br /><span>Version control, self-hosted & GitHub</span>
     </td>
     <td align="center" width="120">
-      <a href="https://git.botcodes.dev/nextek/talhanoshahi/raw/branch/main/logos/systemd-logo.svg" target="_blank" rel="noreferrer">
-        <img src="https://brand.systemd.io/assets/svg/systemd-logomark.svg" width="48" height="48" alt="systemd" />
-        <br /><sub><b>systemd</b></sub>
-        <br /><span>Services, timers, journalctl</span>
-      </a>
+      <img src="https://brand.systemd.io/assets/svg/systemd-logomark.svg" width="48" height="48" alt="systemd" />
+      <br /><sub><b>systemd</b></sub>
+      <br /><span>Services, timers, journalctl</span>
     </td>
     <td align="center" width="120">
-      <a href="https://podman.io/" target="_blank" rel="noreferrer">
-        <img src="https://git.botcodes.dev/nextek/talhanoshahi/raw/branch/main/logos/podman-logo.svg" width="48" height="48" alt="Podman" />
-        <br /><sub><b>Podman</b></sub>
-        <br /><span>Rootless containers, infra pods</span>
-      </a>
+      <img src="https://git.botcodes.dev/nextek/talhanoshahi/raw/branch/main/logos/podman-logo.svg" width="48" height="48" alt="Podman" />
+      <br /><sub><b>Podman</b></sub>
+      <br /><span>Rootless containers, infra pods</span>
     </td>
   </tr>
 </table>
