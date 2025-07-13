@@ -22,20 +22,20 @@
 
 ### 🧰 Languages & Tools
 
-**Core Languages**
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![Verilog](https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/verilog.svg)
+**Core Languages**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30" style="margin-right:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" style="margin-right:10px;" />
+<img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/verilog.svg" alt="Verilog" height="30" />
 
-**Linux & Scripting**
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+**Linux & Scripting**  
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="30" style="margin-right:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="30" style="margin-right:10px;" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" />
 
-**Tools & Frameworks**
-![Emacs](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/emacs.svg)
-![GTK](https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg)
-![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)
+**Tools & Frameworks**  
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/emacs.svg" alt="Emacs" height="30" style="margin-right:10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" height="30" style="margin-right:10px;" />
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="30" />
 
 ### ⚡ Fun Facts
 - 🧠 I use Emacs, but I still love Vim keybindings
