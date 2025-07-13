@@ -27,10 +27,47 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" style="margin-right:10px;" />
 <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/verilog.svg" alt="Verilog" height="30" />
 
-**Linux & Scripting**  
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="30" style="margin-right:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="30" style="margin-right:10px;" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" />
+**Tools & Frameworks**
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <br /><sub><b>Linux</b></sub>
+        <br /><span>Daily driver, debugging, kernel logs</span>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+        <br /><sub><b>Bash</b></sub>
+        <br /><span>Scripting, automation, cron jobs</span>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+        <br /><sub><b>Git</b></sub>
+        <br /><span>Version control, self-hosted & GitHub</span>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.freedesktop.org/wiki/Software/systemd/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Systemd-logo.png" width="48" height="48" alt="systemd" />
+        <br /><sub><b>systemd</b></sub>
+        <br /><span>Services, timers, journalctl</span>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://podman.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="48" height="48" alt="Podman" />
+        <br /><sub><b>Podman</b></sub>
+        <br /><span>Rootless containers, infra pods</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 **Tools & Frameworks**  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/emacs.svg" alt="Emacs" height="30" style="margin-right:10px;" />
