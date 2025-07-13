@@ -1,9 +1,14 @@
 <h1 align="center">👋 Assalamualaikum, I'm Muhammad Talha Noshahi</h1>
 <h3 align="center">💻 Computer Engineer | 🐧 Linux Enthusiast | 🔧 Embedded Systems Engineer</h3>
+<p align="center">
+  <a href="https://botcodes.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-botcodes.dev-0A66C2?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhanoshahi&label=Profile%20views&color=0e75b6&style=flat" alt="talhanoshahi" /> </p>
+### 🎯 What I'm Upto Nowadays
 
-- 🔭 I'm currently working on: [Self-Hosted Git Server with Forgejo](https://git.botcodes.dev/nextek)
+- 🔭 I'm currently working as: [Self-Hosted Git Server with Forgejo](https://git.botcodes.dev/nextek)
 
 - 🌱 Currently learning: **Systemd, Podman, and Containerization**
 
@@ -17,7 +22,7 @@
 
 ### 🧰 Languages & Tools
 
-**Tools & Frameworks**
+#### Tools & Frameworks
 <table>
   <tr>
     <td align="center" width="120">
@@ -43,7 +48,7 @@
   </tr>
 </table>
 
-**Embedded Systems**  
+#### Embedded Systems
 <table>
   <tr>
     <td align="center" width="120">
@@ -74,7 +79,7 @@
   </tr>
 </table>
 
-**Embedded Communication**  
+#### Embedded Communication
 <table>
   <tr>
     <td align="center" width="140">
@@ -104,10 +109,6 @@
 - 🧠 I use Emacs, but I still love Vim keybindings
 - 🔌 I enjoy debugging software and tinkering with Linux.
 - 🎯 I believe clean code is just as important as working code
-
-### 📫 How to Reach Me
-- Email: [talhanoshahi@proton.me](mailto:talhanoshahi@proton.me)
-- Website: [botcodes.dev](https://botcodes.dev)
 
 <!--
 Muhammad Talha Noshahi | talhanoshahi | Computer Engineer | Linux | C | Emacs | Embedded Systems | Forgejo | Taxila Pakistan
